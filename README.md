@@ -1,2 +1,2 @@
-# electro-html
+# eproton-html
 HTML5 Game
